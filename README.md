@@ -15,6 +15,10 @@ __Featuriz__ guide to *Spring Framework 5*.
 
 - Only Memory based authentication is provided.
 
+#### How to use
+This is a maven based spring boot project. Use maven to build this project and just run.  
+_No other dependencies_
+
 ## NOTE
 
 ### IndexController
